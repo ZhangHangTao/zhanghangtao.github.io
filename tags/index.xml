@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>disqus</title>
+      <link>https://example.org/tags/disqus/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/disqus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google analytics</title>
+      <link>https://example.org/tags/google-analytics/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/google-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gravatar</title>
+      <link>https://example.org/tags/gravatar/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/gravatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo theme</title>
+      <link>https://example.org/tags/hexo-theme/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/hexo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>responsive</title>
+      <link>https://example.org/tags/responsive/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html elements</title>
+      <link>https://example.org/tags/html-elements/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://example.org/tags/markdown/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cover image</title>
+      <link>https://example.org/tags/cover-image/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/cover-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github theme</title>
+      <link>https://example.org/tags/github-theme/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/github-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlight code</title>
+      <link>https://example.org/tags/highlight-code/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/highlight-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://example.org/tags/test/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag plugins</title>
+      <link>https://example.org/tags/tag-plugins/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/tag-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://example.org/tags/social/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tags</title>
+      <link>https://example.org/tags/tags/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagination</title>
+      <link>https://example.org/tags/pagination/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dailymotion</title>
+      <link>https://example.org/tags/dailymotion/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/dailymotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos integration</title>
+      <link>https://example.org/tags/videos-integration/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/videos-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vimeo</title>
+      <link>https://example.org/tags/vimeo/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/vimeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://example.org/tags/youtube/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinese</title>
+      <link>https://example.org/tags/chinese/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image gallery</title>
+      <link>https://example.org/tags/image-gallery/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/image-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>japanese</title>
+      <link>https://example.org/tags/japanese/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/japanese/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
