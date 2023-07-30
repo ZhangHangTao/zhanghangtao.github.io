@@ -10,7 +10,7 @@ title                    : "Hangtao Zhang
 (章航滔)"
 description              : "Master in Huazhong University of Science and Technology."
 repository               : "zhanghangtao/zhanghangtao.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : G-SWFCX99KQZ
@@ -30,7 +30,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "zhanghangtao7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "Hangtao Zhang"
   google_plus      :
   keybase          :
   instagram        :
