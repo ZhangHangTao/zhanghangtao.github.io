@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.04*: 🎉 One paper is accepted by NeurIPS 2024
 - *2024.04*: 🎉 One paper is accepted by IJCAI 2024
 - *2024.02*: 🎉 One paper is accepted by TDSC
 - *2023.07*: 🎉 One paper is accepted by ACM MM 2023
