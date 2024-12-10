@@ -1,4 +1,6 @@
 # 🔥 News
+- *2024.12*: 🎉 One paper is accepted by ICASSP 2025
+- *2024.12*: 🎉 One paper is accepted by AAAI 2025
 - *2024.10*: 🏅 I was awarded the National Scholarship.
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
 - *2024.04*: 🎉 One paper is accepted by IJCAI 2024
