@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.1*: 🎉 One paper is accepted by ICLR 2025
 - *2024.12*: 🎉 One paper is accepted by ICASSP 2025
 - *2024.12*: 🎉 One paper is accepted by AAAI 2025
 - *2024.10*: 🏅 I was awarded the National Scholarship.
