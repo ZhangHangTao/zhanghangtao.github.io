@@ -3,6 +3,8 @@
 
 My full paper list is shown at [my personal homepage](https://rayeren.github.io).
 
+####  Jailbreak 
+- ``ICLR 2025`` [Badrobot: Manipulating embodied llms in the physical world](https://arxiv.org/abs/2407.20242), **Hangtao Zhang**, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang
 
 #### 🚪 Backdoor
 - ``IJCAI 2024`` [Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness](), **Hangtao Zhang**, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, Xianlong Wang, Yanjun Zhang, Chao Chen
