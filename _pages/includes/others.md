@@ -6,4 +6,4 @@
 
 
 # 📖 Service
-- *Reviewer*: ICML (2025), ICLR (2025), ACM MM (2024), ICASSP (2025), IEEE Transactions on Multimedia (TMM), ICME (2025), IJCNN (2025).
+- *Reviewer*: ICML (2025), ICLR (2025), KDD (2025), ACM MM (2024), ICASSP (2025), IEEE Transactions on Multimedia (TMM), ICME (2025), IJCNN (2025).
