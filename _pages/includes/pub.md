@@ -8,7 +8,7 @@
 - ``IJCAI 2024`` [Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness](https://www.ijcai.org/proceedings/2024/185), **Hangtao Zhang**, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, Xianlong Wang, Yanjun Zhang, Chao Chen
 - ``TDSC 2024`` [Reverse Backdoor Distillation: Towards Online Backdoor Attack Detection for Deep Neural Network Models](https://ieeexplore.ieee.org/abstract/document/10444929), Zeming Yao, **Hangtao Zhang**, Yicheng Guo, Xin Tian, Wei Peng, Yi Zou, Leo Yu Zhang, Chao Chen
 - ``CVPR 2025`` [Test-Time Backdoor Detection for Object Detection Models](https://arxiv.org/abs/2503.15293), **Hangtao Zhang**, Yichen Wang, Shihui Yan, Chenyu Zhu, Ziqi Zhou, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang
-- ``(In peer review)`` [TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation](), Xianlong Wang, Hewen Pan, **Hangtao Zhang**, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Zhang
+- ``(In peer review)`` [TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation](https://arxiv.org/abs/2411.11683), Xianlong Wang, Hewen Pan, **Hangtao Zhang**, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Zhang
 
 ## 😈 Poisoning attacks
 - ``NeurIPS 2024`` [3D Point Clouds: Class-wise Transformation Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3d868b4b5b61b35a849ba6e7a1d4449-Abstract-Conference.html), Xianlong Wang, Minghui Li, Wei Liu, **Hangtao Zhang**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin
