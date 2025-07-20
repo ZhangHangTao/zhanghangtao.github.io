@@ -8,6 +8,7 @@
 - ``IJCAI 2024`` [Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness](https://www.ijcai.org/proceedings/2024/185), **Hangtao Zhang**, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, Xianlong Wang, Yanjun Zhang, Chao Chen
 - ``TDSC 2024`` [Reverse Backdoor Distillation: Towards Online Backdoor Attack Detection for Deep Neural Network Models](https://ieeexplore.ieee.org/abstract/document/10444929), Zeming Yao, **Hangtao Zhang**, Yicheng Guo, Xin Tian, Wei Peng, Yi Zou, Leo Yu Zhang, Chao Chen
 - ``CVPR 2025`` [Test-Time Backdoor Detection for Object Detection Models](https://arxiv.org/abs/2503.15293), **Hangtao Zhang**, Yichen Wang, Shihui Yan, Chenyu Zhu, Ziqi Zhou, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang
+- ``TIFS`` [DarkHash: A Data-Free Backdoor Attack Against Deep Hashing](), Ziqi Zhou, Menghao Deng, Yufei Song, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li, Leo Yu Zhang
 - ``(In peer review)`` [TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation](https://arxiv.org/abs/2411.11683), Xianlong Wang, Hewen Pan, **Hangtao Zhang**, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Zhang
 
 ## 😈 Poisoning attacks
@@ -18,4 +19,4 @@
 - ``ACM MM 2023`` [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Ziqi Zhou, Shengshan Hu, Minghui Li, **Hangtao Zhang**, Yechao Zhang, Hai Jin
 - ``AAAI 2025`` [Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yichen Wang, Yuxuan Zhou, Ziqi Zhou, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li
 - ``ICASSP 2025`` [PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10890418), Yufei Song, Ziqi Zhou, Minghui Li, Xianlong Wang, **Hangtao Zhang**, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang 
-- ``ICME 2025`` [PSFD: Proactive Spatial-Frequency Defense against Malicious Exemplar-Guided Image Editing](), Li Zeng, Xiaojun Mo, Meng Xie, Hangtao Zhang, **Hangtao Zhang**, Yixiang Liu, Yezhuo Peng, Yanchun Li
+- ``ICME 2025`` [PSFD: Proactive Spatial-Frequency Defense against Malicious Exemplar-Guided Image Editing](), Li Zeng, Xiaojun Mo, Meng Xie, **Hangtao Zhang**, Yixiang Liu, Yezhuo Peng, Yanchun Li
