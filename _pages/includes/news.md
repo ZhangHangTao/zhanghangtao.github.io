@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: 🎉 One co-first author paper is accepted by TDSC
 - *2025.07*: 🎉 One paper is accepted by TIFS
 - *2025.03*: 🎉 One paper is accepted by ICME 2025
 - *2025.02*: 🎉 One first-author paper is accepted by CVPR 2025

@@ -14,6 +14,7 @@
 ## 😈 Poisoning attacks
 - ``NeurIPS 2024`` [3D Point Clouds: Class-wise Transformation Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3d868b4b5b61b35a849ba6e7a1d4449-Abstract-Conference.html), Xianlong Wang, Minghui Li, Wei Liu, **Hangtao Zhang**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin
 - ``IJCAI 2023`` [Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning](https://www.ijcai.org/proceedings/2023/0508), **Hangtao Zhang**, Zeming Yao, Leo Yu Zhang, Shengshan Hu, Chao Chen, Alan Liew, Zhetao Li
+- ``TDSC 2025`` [Fine-Grained Poisoning Framework against Federated Learning](https://www.ijcai.org/proceedings/2023/0508),  Minghui Li¹*, **Hangtao Zhang**¹*, Yanjun Zhang, Li Zeng, Chao Chen, Qiyun Shao, Wei Wan, Shengshan Hu, Leo Yu Zhang. (¹*Co-first authors)
 
 ## 🌌 Adversarial Attacks and Defenses
 - ``ACM MM 2023`` [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Ziqi Zhou, Shengshan Hu, Minghui Li, **Hangtao Zhang**, Yechao Zhang, Hai Jin
