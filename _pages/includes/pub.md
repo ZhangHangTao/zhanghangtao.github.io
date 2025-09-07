@@ -19,5 +19,6 @@
 ## 🌌 Adversarial Attacks and Defenses
 - ``ACM MM 2023`` [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Ziqi Zhou, Shengshan Hu, Minghui Li, **Hangtao Zhang**, Yechao Zhang, Hai Jin
 - ``AAAI 2025`` [Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yichen Wang, Yuxuan Zhou, Ziqi Zhou, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li
+- ``EEE Transactions on Multimedia`` [SegTrans: Transferable Adversarial Examples for Segmentation Models](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yufei Song, Ziqi Zhou, Qi Lu, **Hangtao Zhang**, Yifan Hu, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang
 - ``ICASSP 2025`` [PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10890418), Yufei Song, Ziqi Zhou, Minghui Li, Xianlong Wang, **Hangtao Zhang**, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang 
 - ``ICME 2025`` [PSFD: Proactive Spatial-Frequency Defense against Malicious Exemplar-Guided Image Editing](), Li Zeng, Xiaojun Mo, Meng Xie, **Hangtao Zhang**, Yixiang Liu, Yezhuo Peng, Yanchun Li
