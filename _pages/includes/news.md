@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.09*: 🎉 One paper is accepted by NeurIPS
 - *2025.09*: 🎉 One paper is accepted by TMM (IEEE Transactions on Multimedia)
 - *2025.08*: 🎉 One co-first author paper is accepted by TDSC
 - *2025.07*: 🎉 One paper is accepted by TIFS

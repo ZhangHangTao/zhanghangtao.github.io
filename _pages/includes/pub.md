@@ -11,12 +11,13 @@
 - ``TIFS`` [DarkHash: A Data-Free Backdoor Attack Against Deep Hashing](), Ziqi Zhou, Menghao Deng, Yufei Song, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li, Leo Yu Zhang
 - ``(In peer review)`` [TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation](https://arxiv.org/abs/2411.11683), Xianlong Wang, Hewen Pan, **Hangtao Zhang**, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Zhang
 
-## 😈 Poisoning attacks
+## 😈 Poisoning attacks and Denfenses
 - ``NeurIPS 2024`` [3D Point Clouds: Class-wise Transformation Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3d868b4b5b61b35a849ba6e7a1d4449-Abstract-Conference.html), Xianlong Wang, Minghui Li, Wei Liu, **Hangtao Zhang**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin
 - ``IJCAI 2023`` [Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning](https://www.ijcai.org/proceedings/2023/0508), **Hangtao Zhang**, Zeming Yao, Leo Yu Zhang, Shengshan Hu, Chao Chen, Alan Liew, Zhetao Li
 - ``TDSC 2025`` [Fine-Grained Poisoning Framework against Federated Learning](https://www.ijcai.org/proceedings/2023/0508),  Minghui Li¹*, **Hangtao Zhang**¹*, Yanjun Zhang, Li Zeng, Chao Chen, Qiyun Shao, Wei Wan, Shengshan Hu, Leo Yu Zhang. (¹*Co-first authors)
 
 ## 🌌 Adversarial Attacks and Defenses
+- ``NeurIPS 2025`` [AdvEDM: Fine-grained Adversarial Attack against VLM-based Embodied Decision-Making Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Yichen Wang, **Hangtao Zhang**, Hewen Pan, Ziqi Zhou, Xianlong Wang, Peijin Guo, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang
 - ``ACM MM 2023`` [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Ziqi Zhou, Shengshan Hu, Minghui Li, **Hangtao Zhang**, Yechao Zhang, Hai Jin
 - ``AAAI 2025`` [Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yichen Wang, Yuxuan Zhou, Ziqi Zhou, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li
 - ``EEE Transactions on Multimedia`` [SegTrans: Transferable Adversarial Examples for Segmentation Models](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yufei Song, Ziqi Zhou, Qi Lu, **Hangtao Zhang**, Yifan Hu, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang
